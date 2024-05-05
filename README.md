@@ -33,3 +33,25 @@ accordingly.
 
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
+
+## My analysis
+
+This algorithm has a worst case of $\theta(E + V)$ where $E$ is the number of edges and $V$ is the number of vertices in the graph. THis happens when the algorithm has to check every node and every edge connected to it.
+
+## Sources
+
+https://github.com/COSC3020/augmenting-path-IshitaPatel18 - just wanted to check if my solution was similar to hers.
+
+https://github.com/COSC3020/graph-search-Greg-Saul I referenced my own code and made the changes for the different indices to work
+
+
+
+
+
+
+
+
+
+
+
+
