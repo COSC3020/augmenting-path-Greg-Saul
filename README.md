@@ -36,7 +36,7 @@ answer, including your reasoning, to this markdown file.
 
 ## My analysis
 
-This algorithm has a worst case of $\theta(E + V)$ where $E$ is the number of edges and $V$ is the number of vertices in the graph. THis happens when the algorithm has to check every node and every edge connected to it.
+This algorithm has a worst case of $\theta(E + V)$ where $E$ is the number of edges and $V$ is the number of vertices in the graph. THis happens when the algorithm has to check every node and every edge connected to it to find the path from start to end.
 
 ## Sources
 
